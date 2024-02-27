@@ -1,4 +1,4 @@
-# web3_wallet
+# hao_wallet
 
 ## Project setup
 ```

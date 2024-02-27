@@ -1,7 +1,15 @@
 {
-  "name": "web3_wallet",
+  "name": "hao_wallet",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vv1133/hao_wallet"
+  },
+  "bugs": {
+    "url": "https://github.com/vv1133/hao_wallet"
+  },
+  "homepage": "https://github.com/vv1133/hao_wallet#README",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
