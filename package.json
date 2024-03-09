@@ -1,13 +1,13 @@
 {
   "name": "hao_wallet",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vv1133/hao_wallet"
+    "url": "https://github.com/vv1133/hao_wallet"
   },
   "bugs": {
-    "url": "https://github.com/vv1133/hao_wallet"
+    "url": "https://github.com/vv1133/hao_wallet/issues"
   },
   "homepage": "https://github.com/vv1133/hao_wallet#README",
   "scripts": {
